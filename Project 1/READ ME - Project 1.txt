@@ -1,0 +1,41 @@
+﻿Amara Marx
+marx0109
+
+
+How to compile and run program: 
+
+
+To compile and run the FractalDrawer.java program either run it from your favorite IDE or compile the classes and run java FractalDrawer.java.
+
+
+Assumptions:
+
+
+We assume the user is fluent in python.
+
+
+Additional features implemented:
+
+
+The only additional feature implemented to this program is a while loop to check the validity of the user input for variable “shape”.
+
+
+Known bugs:
+
+
+Occasionally full fractal will not load from the canvas popup, but once the window is opened the full fractal will appear.
+
+
+Outside sources:
+
+
+Idea: How to use colors in java, and the available color options.
+Source: https://docs.oracle.com/javase/8/docs/api/java/awt/Color.html
+
+
+
+
+“I certify that the information contained in this README file is complete and accurate. I have both read and followed the course policies in the ‘Academic Integrity - Course Policy’ section of the course syllabus.” 
+
+
+Amara Marx
