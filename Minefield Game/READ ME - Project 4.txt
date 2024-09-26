@@ -1,0 +1,49 @@
+﻿Amara Marx
+(marx0109)
+
+
+How to compile and run the program:
+To compile and run the Minefield program, either run main.java from your favorite IDE or compile the classes and run main.java .
+
+
+Assumptions:
+
+
+We assume that the person using this code is well versed in the data structures and java. We also assume that they will be entering correct user input;
+
+
+Additional features implemented:
+
+
+No additional features were implemented on this project.
+
+
+Bugs or known defects:
+
+
+No know bugs or defects 
+
+
+Outside sources:
+
+
+Source 1: How to break a loop
+https://stackoverflow.com/questions/15275195/breaking-out-of-a-for-loop-in-java 
+
+
+Source 2: How to split a String
+ https://www.geeksforgeeks.org/split-string-java-examples/ 
+
+
+Source 3: How to convert a String to an int
+https://sentry.io/answers/how-do-i-convert-a-string-to-an-int-in-java/#:~:text=The%20two%20easiest%20ways%20to,()%20or%20Integer.valueOf()%20. 
+
+
+Source 4: How to generate random numbers within a range
+https://stackoverflow.com/questions/6443176/how-can-i-generate-a-random-number-within-a-range-but-exclude-some 
+
+
+“I certify that the information contained in this README file is complete and accurate. I have both read and followed the course policies in the ‘Academic Integrity - Course Policy’ section of the course syllabus.”
+
+
+Amara Marx
