@@ -1,0 +1,42 @@
+﻿Amara Marx
+(marx0109)
+
+
+How to compile and run the program:
+To compile and run both the LinkedList and ArrayList programs, either run them from your favorite IDE or compile the classes and run java LinkedList.java or ArrayList.java.
+
+
+
+
+Assumptions:
+
+
+We assume that the person using this code is well versed in the data structures and java. We also assume that they will be using the provided test to verify correctness;
+
+
+Additional features implemented:
+
+
+No additional features were implemented on this project.
+
+
+Bugs or known defects:
+
+
+The isSorted and exclusiveOr methods do not work for either data structure.
+
+
+Outside sources:
+
+
+Source 1: Standard pointer direction of a linked list: https://cs.stackexchange.com/questions/59885/correct-way-to-implement-linked-list 
+
+
+Source 2: How to use compareTo
+https://www.w3schools.com/java/ref_string_compareto.asp#:~:text=The%20compareTo()%20method%20compares,equal%20to%20the%20other%20string. 
+
+
+“I certify that the information contained in this README file is complete and accurate. I have both read and followed the course policies in the ‘Academic Integrity - Course Policy’ section of the course syllabus.”
+
+
+Amara Marx

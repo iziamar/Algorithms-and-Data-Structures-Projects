@@ -1,0 +1,30 @@
+﻿Amara Marx
+Marx0109
+Dovolis
+April 4 2024
+
+
+Project 3 Analysis
+Regarding the question of which list database is better I believe that neither one is better than the other; LinkedList and ArrayList are both used for a reason and that reason is that they have unique applications for different issues. In my opinion LinkedList is very good for when you’re adding and deleting from a list, because you don’t have to move every element over one, and LinkedArray is good for random access data because it is indexed, so you don’t have to iterate over every element to find a specific data point like you would with Linked List.
+
+
+Method
+	ArrayList Runtime
+	LinkedList Runtime
+	Explanation
+	boolean add(T element)
+	O(1)
+	O(1)
+	Both ArrayList and LinkedList have constant time complexity for adding elements at the end because they just have to update the tail pointer or resize the array
+	T getMax( )
+	O(n)
+	O(n)
+	LinkedList has to sort the list in order to return the tail for getMax which results in O(n) time and ArrayList has to use sort() and reverse() to get Max() which also results in O(n) time
+	removeDuplicates( )
+	O(n^2)
+	O(n^2)
+	Both ArrayList and LinkedList need to iterate over the list for each element to remove any duplicates, resulting in O(n^2) time.
+	reverse( )
+	O(n)
+	O(n)
+	for both ArrayList and LinkedList each element is only visited once so it is O(n) time
